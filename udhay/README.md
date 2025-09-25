@@ -198,11 +198,12 @@ The town is surrounded by greenery and hills from the Western Ghats, giving it a
 ---
 
 ## OUTPUT
-
-
-
-
-
+!![alt text](ilanji.png)
+![alt text](mapapp/static/map.png)
+![alt text](piranoor.png)
+![alt text](myh.png)
+![alt text](tenkasi.png)
+![alt text](tmk.png)
 
 
 ## RESULT
